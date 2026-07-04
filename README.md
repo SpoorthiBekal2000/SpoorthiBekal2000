@@ -20,12 +20,12 @@ M.Tech in VLSI Design & Embedded Systems from KLE Technological University (Silv
 
 | Project | Description |
 |---|---|
-| 🚗 [Car Black Box System](https://github.com/SpoorthiBekal2000/Car_Black_Box) | Automotive event data recorder on PIC16F877A — logs speed, gear shifts & collisions to EEPROM with a password-protected LCD menu |
-| 🐚 [Mini Shell](https://github.com/SpoorthiBekal2000/Mini_Shell) | A Linux shell built from scratch in C — job control, signal handling, and piping using raw syscalls |
-| 🔍 [Inverted Search](https://github.com/SpoorthiBekal2000/Inverted_Search) | Search-engine-style inverted index using hash tables + linked lists |
-| 🖼️ [Image Steganography](https://github.com/SpoorthiBekal2000/Image_Steganography) | Hide any file inside a BMP image using LSB encoding |
-| 📇 [Address Book](https://github.com/SpoorthiBekal2000/Address_Book) | File-based contact manager with validation and persistence |
-| 🔢 [APC Calculator](https://github.com/SpoorthiBekal2000/APC_calculator) | Arbitrary-precision arithmetic on doubly linked lists |
+| [Car Black Box System](https://github.com/SpoorthiBekal2000/Car_Black_Box) | Automotive event data recorder on PIC16F877A — logs speed, gear shifts & collisions to EEPROM with a password-protected LCD menu |
+| [Mini Shell](https://github.com/SpoorthiBekal2000/Mini_Shell) | A Linux shell built from scratch in C — job control, signal handling, and piping using raw syscalls |
+| [Inverted Search](https://github.com/SpoorthiBekal2000/Inverted_Search) | Search-engine-style inverted index using hash tables + linked lists |
+| [Image Steganography](https://github.com/SpoorthiBekal2000/Image_Steganography) | Hide any file inside a BMP image using LSB encoding |
+| [Address Book](https://github.com/SpoorthiBekal2000/Address_Book) | File-based contact manager with validation and persistence |
+| [APC Calculator](https://github.com/SpoorthiBekal2000/APC_calculator) | Arbitrary-precision arithmetic on doubly linked lists |
 
 ## 📫 Reach Me
 
